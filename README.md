@@ -16,9 +16,7 @@ Simply run ```VolatilityWorkbench.exe``` and you're good to go.
 # Download
 
 You may download the whole packages here:
-
-[![https://github.com/alternat0r/wvu2date/archive/refs/heads/main.zip](https://img.shields.io/badge/Download-Here-brightgreen)]()
-
+[![goto-download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/alternat0r/wvu2date/archive/refs/heads/main.zip)
 
 
 # Disclaimer
