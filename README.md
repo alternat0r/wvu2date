@@ -13,6 +13,13 @@ Current version of Volatility 3 Framework (vol.exe)     		: 1.2.1
 
 Simply run ```VolatilityWorkbench.exe``` and you're good to go.
 
+# Download
+
+You may download the whole packages here:
+
+[![https://github.com/alternat0r/wvu2date/archive/refs/heads/main.zip](https://img.shields.io/badge/Download-Here-brightgreen)]()
+
+
 
 # Disclaimer
 
