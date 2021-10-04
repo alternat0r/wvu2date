@@ -16,7 +16,7 @@ Simply run ```VolatilityWorkbench.exe``` and you're good to go.
 
 # Disclaimer
 
-I do not own the original source code. I just recompile with the latest version of Volatility 3 Framework into ```vol.exe`` according to my needs only. If you have any question regarding to each tools and code, you may contact them directly.
+I do not own the original source code. I just recompile with the latest version of Volatility 3 Framework into ```vol.exe``` according to my needs only. If you have any question regarding to each tools and code, you may contact them directly.
 
 
 # Credit
