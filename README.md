@@ -5,8 +5,8 @@ This version of PassMark Workbench Volatility has no major modification except `
 # Modification
 
 ```
-Current version of Workbench Volatility ```VolatilityWorkbench.exe```   : v3.0 Build 1002
-Current version of Volatility 3 Framework ```vol.exe```     		: 1.2.1
+Current version of Workbench Volatility (VolatilityWorkbench.exe)	: v3.0 Build 1002
+Current version of Volatility 3 Framework (vol.exe)     		: 1.2.1
 ```
 
 # Disclaimer
