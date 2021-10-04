@@ -9,6 +9,11 @@ Current version of Workbench Volatility (VolatilityWorkbench.exe)	: v3.0 Build 1
 Current version of Volatility 3 Framework (vol.exe)     		: 1.2.1
 ```
 
+# Usage
+
+Simply run ```VolatilityWorkbench.exe``` and you're good to go.
+
+
 # Disclaimer
 
 I do not own the original source code. I just recompile with the latest version of Volatility 3 Framework into ```vol.exe`` according to my needs only. If you have any question regarding to each tools and code, you may contact them directly.
